@@ -17,12 +17,5 @@ button{
 .card-deck{
     margin: 100px 0px;
 }
-.bag{
-    border-bottom-left-radius: 25px;
-}
-.perfume, .shoe{
-    border-bottom-right-radius: 20px;
-}
-
 
   
