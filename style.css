@@ -1,4 +1,16 @@
-.container{
-    background-image: url("background.jpg");
-    width: 50%;
+
+
+button{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    box-shadow: none;
+    height: 50px;
+    width: 150px;
+}
+#carouselExampleControls{
+    margin: 100px 0px;
+}
+.card-deck{
+    margin: 100px 0px;
 }
